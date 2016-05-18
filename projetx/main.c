@@ -4,6 +4,7 @@
 int main(){
 
 printf("Hi\n");
+//azerty
 
-return à;
+return 0;
 }
