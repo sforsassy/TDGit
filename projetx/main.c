@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 //simon est là
+
+//hola mojito 
 int main(){
 
 printf("Hi\n");
